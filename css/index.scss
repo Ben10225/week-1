@@ -206,6 +206,11 @@ section{
             }
         }
     }
+    .title{
+        h2{
+            font-size: 37px !important;
+        }
+    }
     .content{
         max-width: 90%;
         .promotions{
@@ -230,9 +235,5 @@ section{
 }
 
 @media screen and (max-width: 370px){
-    .title{
-        h2{
-            word-spacing: -6px;
-        }
-    }
+    
 }

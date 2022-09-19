@@ -194,6 +194,9 @@ section .content .itemBox .item .itemTxt.teamB {
   header .burger .line::after {
     top: 7px;
   }
+  .title h2 {
+    font-size: 37px !important;
+  }
   .content {
     max-width: 90%;
   }
@@ -214,10 +217,5 @@ section .content .itemBox .item .itemTxt.teamB {
   }
   .content .item:first-child {
     margin-top: 0 !important;
-  }
-}
-@media screen and (max-width: 370px) {
-  .title h2 {
-    word-spacing: -6px;
   }
 }/*# sourceMappingURL=index.css.map */

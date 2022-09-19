@@ -78,10 +78,10 @@ section{
                     display: inline-block;
                     margin-right: 10px;
                     &.team1{
-                        background-image: url('/image/blackpink.jpeg');
+                        background-image: url('../image/blackpink.jpeg');
                     }
                     &.team2{
-                        background-image: url('/image/girlsday.jpeg');
+                        background-image: url('../image/girlsday.jpeg');
                         background-size: 110%;
                         background-position: 90% 15%;
 
@@ -112,32 +112,32 @@ section{
                     background-size: cover;
                     background-position: center;
                     &.bp_m1{
-                        background-image: url('/image/jisoo.png');
+                        background-image: url('../image/jisoo.png');
                     }
                     &.bp_m2{
-                        background-image: url('/image/jennie.jpeg');
+                        background-image: url('../image/jennie.jpeg');
                     }
                     &.bp_m3{
-                        background-image: url('/image/rose.jpeg');
+                        background-image: url('../image/rose.jpeg');
                         background-size: 150%;
                         background-position: 50% 10%;
                     }
                     &.bp_m4{
-                        background-image: url('/image/lisa.jpeg');
+                        background-image: url('../image/lisa.jpeg');
                     }
                     &.gd_m1{
-                        background-image: url('/image/yura.jpeg');
+                        background-image: url('../image/yura.jpeg');
                         background-position: 0% 0%;
                     }
                     &.gd_m2{
-                        background-image: url('/image/minah.jpeg');
+                        background-image: url('../image/minah.jpeg');
                     }
                     &.gd_m3{
-                        background-image: url('/image/sojin.jpeg');
+                        background-image: url('../image/sojin.jpeg');
                         background-position: 0% 30%;
                     }
                     &.gd_m4{
-                        background-image: url('/image/hyeri.jpeg');
+                        background-image: url('../image/hyeri.jpeg');
                         background-size: 140%;
                         background-position: 20% 20%;
                     }

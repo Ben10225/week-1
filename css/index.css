@@ -80,10 +80,10 @@ section .content .promotions .proItem .proImg {
   margin-right: 10px;
 }
 section .content .promotions .proItem .proImg.team1 {
-  background-image: url("/image/blackpink.jpeg");
+  background-image: url("../image/blackpink.jpeg");
 }
 section .content .promotions .proItem .proImg.team2 {
-  background-image: url("/image/girlsday.jpeg");
+  background-image: url("../image/girlsday.jpeg");
   background-size: 110%;
   background-position: 90% 15%;
 }
@@ -112,32 +112,32 @@ section .content .itemBox .item .itemImg {
   background-position: center;
 }
 section .content .itemBox .item .itemImg.bp_m1 {
-  background-image: url("/image/jisoo.png");
+  background-image: url("../image/jisoo.png");
 }
 section .content .itemBox .item .itemImg.bp_m2 {
-  background-image: url("/image/jennie.jpeg");
+  background-image: url("../image/jennie.jpeg");
 }
 section .content .itemBox .item .itemImg.bp_m3 {
-  background-image: url("/image/rose.jpeg");
+  background-image: url("../image/rose.jpeg");
   background-size: 150%;
   background-position: 50% 10%;
 }
 section .content .itemBox .item .itemImg.bp_m4 {
-  background-image: url("/image/lisa.jpeg");
+  background-image: url("../image/lisa.jpeg");
 }
 section .content .itemBox .item .itemImg.gd_m1 {
-  background-image: url("/image/yura.jpeg");
+  background-image: url("../image/yura.jpeg");
   background-position: 0% 0%;
 }
 section .content .itemBox .item .itemImg.gd_m2 {
-  background-image: url("/image/minah.jpeg");
+  background-image: url("../image/minah.jpeg");
 }
 section .content .itemBox .item .itemImg.gd_m3 {
-  background-image: url("/image/sojin.jpeg");
+  background-image: url("../image/sojin.jpeg");
   background-position: 0% 30%;
 }
 section .content .itemBox .item .itemImg.gd_m4 {
-  background-image: url("/image/hyeri.jpeg");
+  background-image: url("../image/hyeri.jpeg");
   background-size: 140%;
   background-position: 20% 20%;
 }

@@ -154,6 +154,11 @@ section .content .itemBox .item .itemTxt.teamB {
   background-color: #bbc2ed;
 }
 
+footer {
+  margin: 0;
+  height: 40px;
+}
+
 @media screen and (max-width: 1200px) {
   .content {
     max-width: 90%;
